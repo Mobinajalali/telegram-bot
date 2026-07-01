@@ -68,5 +68,3 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 
-print("TOKEN:", os.getenv("BOT_TOKEN"))
-print("ADMIN_ID:", os.getenv("ADMIN_ID"))
